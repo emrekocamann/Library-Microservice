@@ -3,6 +3,7 @@ package com.kitaplik.book_service.service;
 import com.kitaplik.book_service.dto.BookDto;
 import com.kitaplik.book_service.dto.BookIdDto;
 import com.kitaplik.book_service.exception.BookNotFoundException;
+import com.kitaplik.book_service.model.Book;
 import com.kitaplik.book_service.repository.BookRepository;
 import org.springframework.stereotype.Service;
 

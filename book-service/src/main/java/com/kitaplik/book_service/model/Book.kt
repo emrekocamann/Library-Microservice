@@ -1,6 +1,5 @@
 package com.kitaplik.book_service.model
 
-import com.kitaplik.book_service.dto.BookIdDto
 import jakarta.persistence.Entity
 import jakarta.persistence.GeneratedValue
 import jakarta.persistence.Id
